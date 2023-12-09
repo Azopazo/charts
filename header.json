@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "AZOP Chart Collection",
+"symbol" : "AZ",
+"data_url" : "https://script.google.com/macros/s/AKfycbwHxuWvIeh7CH69NanYWOjEZLybvAC7ao9HRf26gKyrv7eiNHQEzNCp2w6wzGB30BcKxg/exec"
 }
